@@ -1,5 +1,14 @@
-.form-search {
+.form-bg {
     background-color: #afe3ac;
+}
+
+.form-search {
     display: flex;
     justify-content: center;
+}
+
+.img-search {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
 }
